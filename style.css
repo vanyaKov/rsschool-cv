@@ -1,0 +1,62 @@
+main{
+    width: 400px;
+    height: 500px;
+    margin-left: 35%;
+}
+
+#FullName{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#PhoneNumber{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+#SelfIntroduction{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style:italic;
+}
+
+#Skills{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+#WorkExperience{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+#Education{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+#EnglishLevel{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: normal;
+}
